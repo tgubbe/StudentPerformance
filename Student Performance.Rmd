@@ -2,7 +2,7 @@
 title: "Exploratory Data Analysis, Linear Regression, and Prediction Modeling of Student Performance"
 author: "Travis Gubbe"
 date: "September 25, 2022"
-output: github_document
+output: rmarkdown::github_document
 ---
 
 In this R Markdown session, I will use various methods of exploratory data analysis to examine the characteristics of the "Students Performance in Exams" dataset. In addition, linear regression to view relationships within the data. 
